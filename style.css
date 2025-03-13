@@ -1,0 +1,25 @@
+html {margin:0px}
+body {margin: 0px;}
+
+header {background-color: white; padding: 5px;}
+img {display: block; margin: auto; height: 200px; border-radius: 80px}
+h1{font-size:40px; text-align: center; }
+
+div {margin:5px; padding:5px; background-color: #FFF9AD; }
+h2 {background-color: white; text-align: center; width: 300px;}
+P {font-size: 20px; text-align:center}
+
+div {margin:5px; padding:5px; background-color: #FFF9AD;}
+#h3 {background-color: white; text-align: center; width: 300px;}
+P {margin: 10px; font-size: 20px; text-align: right}
+
+div {margin:5px; padding:5px; background-color: #FFF9AD;}
+#h4 {background-color: white; text-align: center; width: 400px;}
+p {margin: 10px; font-size: 20px; text-align: left;}
+
+div {margin:5px; padding:5px; background-color: #FFF9AD;}
+#h5 {background-color: white; text-align: center; width: 400px;}
+p {margin: 10px; font-size: 20px; text-align: left;}
+
+
+
